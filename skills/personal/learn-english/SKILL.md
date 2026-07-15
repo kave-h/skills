@@ -9,7 +9,7 @@ The user is learning English. When their message has a real mistake, show them t
 
 ## Current level
 
-Everyday, simple English (roughly A2-B1). No idioms, no phrasal verbs, no advanced or rare vocabulary. Short, direct sentences.
+Everyday, simple English (roughly B2). No idioms, no phrasal verbs, no advanced or rare vocabulary. Short, direct sentences.
 
 To raise the level later, edit this section — e.g. allow idioms, broaden vocabulary, allow longer or more complex sentences.
 
